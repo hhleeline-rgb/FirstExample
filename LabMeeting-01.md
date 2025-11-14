@@ -2,9 +2,7 @@
 title: LabMeeting-01
 tags: [NCKU]
 ---
-```table-of-contents
-maxLevel: 2
-```
+
 
 
 > [!info]- 日期
